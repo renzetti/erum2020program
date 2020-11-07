@@ -199,8 +199,8 @@ Conference materials are being populated based on **speakers and community contr
 
 #### gWQS: An R Package for Linear and Generalized Weighted Quantile Sum (WQS) Regression
 
-- Speaker: Stefano Renzetti
-- Materials: TBD
+- Speaker: Stefano Renzetti 
+- Materials: [slides](https://github.com/renzetti/e-Rum/blob/master/Renzetti-gWQS-package.pdf)
 
 #### Flexible Meta-Analysis of Generalized Additive Models with metagam
 
